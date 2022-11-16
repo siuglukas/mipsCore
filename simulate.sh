@@ -1,0 +1,1 @@
+iverilog -Wall -g2012 -o run cpuTest.sv cpu.sv && vvp run
